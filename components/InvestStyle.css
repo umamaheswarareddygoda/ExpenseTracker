@@ -1,0 +1,75 @@
+.transac1 ul{
+    list-style: none;
+    text-align: center;
+    position: relative;
+    
+}
+li{
+    float: left;
+    padding-top: 2%;
+    margin-top: 5%;
+    background-color: white;
+    border-radius: 3%;
+}
+#i1{
+    color: red;
+}
+
+#r1{
+    color: #32CD32;
+}
+
+.transac1 {
+    float: left;
+}
+
+.transac1{
+    width: 50%;
+    margin-left: 0;
+}
+
+#xyz{
+    float: left;
+    margin-top: 2%;
+    
+}
+
+#return{
+    box-shadow: 3px 3px grey;
+    width: 40%;
+}
+
+#invest{
+    box-shadow: 3px 3px grey;
+    margin-left: 8%;
+    width: 40%;
+}
+
+#profit1{
+    background-color: #32CD32;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+#loss1{
+    background-color: red;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+#tr{
+    padding-bottom: 2%;
+    margin-bottom: 2%;
+}
+
+#btn{
+    float: left;
+    margin-left: 5%;
+    position: fixed;
+    bottom: 35%;
+    left: 48%;
+}
+
+.input{
+    width: 80%;
+}
